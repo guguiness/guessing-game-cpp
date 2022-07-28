@@ -1,0 +1,15 @@
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.exe
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.deps.json
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.dll
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.pdb
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.dll
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\refint\NumberGuessingGame.dll
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.pdb
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\gnogu\Documents\MEGAsync\Projetos\C#\NumberGuessingGame\NumberGuessingGame\obj\Debug\net6.0\ref\NumberGuessingGame.dll
